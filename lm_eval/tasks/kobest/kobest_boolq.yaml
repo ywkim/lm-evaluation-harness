@@ -1,7 +1,7 @@
 group:
   - kobest
 task: kobest_boolq
-dataset_path: youngwook-kim/kobest
+dataset_path: youngwook-kim/kobest_v1
 dataset_name: boolq
 output_type: multiple_choice
 training_split: train
