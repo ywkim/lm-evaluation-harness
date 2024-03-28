@@ -1,7 +1,7 @@
 group:
   - kobest
 task: kobest_sentineg
-dataset_path: skt/kobest_v1
+dataset_path: youngwook-kim/kobest
 dataset_name: sentineg
 output_type: multiple_choice
 training_split: train

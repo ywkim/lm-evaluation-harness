@@ -1,7 +1,7 @@
 group:
   - kobest
 task: kobest_hellaswag
-dataset_path: skt/kobest_v1
+dataset_path: youngwook-kim/kobest
 dataset_name: hellaswag
 training_split: train
 validation_split: validation
